@@ -1,4 +1,4 @@
-# NeuralNetworkFromScratch
+# Neural Network From Scratch
 In this project I have built a simple Neural Network using pure Numpy (no TensorFlow, PyTorch, etc).
 
 ## The scope of the project
