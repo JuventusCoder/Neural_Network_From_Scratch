@@ -7,7 +7,7 @@ In this project I have demonstrated the "behind the scenes of a very simple Neur
 The purpose of the project is to demonstrate what happens "under the hood" in libraries such as PyTorch or TensorFlow.
 I have used the MNIST Digit Recognition Dataset (the simplified 8 by 8 pixels one) as an example.
 
-## What I will further improve.
+## What I will further improve
 
 There are many things you could improve here, but 2 of the most important are:
 1) Make the code for backprogation more readable (maybe even introduce autograd).
@@ -15,6 +15,6 @@ There are many things you could improve here, but 2 of the most important are:
 
 Anyways I find that the project fulfills its goal to build a simple Neural Network without the help of dedicated librries even as it is.
 
-## What you could further do with it.
+## What you could further do with it
 
 As I already mentioned, there are many things you can improve in this project, so feel free to download the Notebook and play around with it.
